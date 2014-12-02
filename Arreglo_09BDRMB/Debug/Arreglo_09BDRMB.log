@@ -1,0 +1,16 @@
+﻿Compilación iniciada a las 02/12/2014 07:30:04 a. m..
+     1>Proyecto "C:\Users\Luis-Trabajo\Documents\Visual Studio 2013\Projects\Proyectos DRMB\Arreglo_09BDRMB\Arreglo_09BDRMB.vcxproj" en el nodo 2 (Rebuild destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\Arreglo_09BDRMB.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Arreglo_09BDRMB.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Arreglo_09BDRMB.cpp
+         Arreglo_09BDRMB.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Luis-Trabajo\Documents\Visual Studio 2013\Projects\Proyectos DRMB\Debug\Arreglo_09BDRMB.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Luis-Trabajo\Documents\Visual Studio 2013\Projects\Proyectos DRMB\Debug\Arreglo_09BDRMB.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Luis-Trabajo\Documents\Visual Studio 2013\Projects\Proyectos DRMB\Debug\Arreglo_09BDRMB.lib" /MACHINE:X86 Debug\Arreglo_09BDRMB.obj
+         Debug\stdafx.obj
+         Arreglo_09BDRMB.vcxproj -> C:\Users\Luis-Trabajo\Documents\Visual Studio 2013\Projects\Proyectos DRMB\Debug\Arreglo_09BDRMB.exe
+     1>Compilación del proyecto terminada "C:\Users\Luis-Trabajo\Documents\Visual Studio 2013\Projects\Proyectos DRMB\Arreglo_09BDRMB\Arreglo_09BDRMB.vcxproj" (Rebuild destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:01.99
